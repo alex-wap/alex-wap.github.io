@@ -8,14 +8,14 @@ highlighter: rouge # changed from pygments
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Alex Wapniarski
-tagline: Site Tagline
+title : alex_w$ whoami
+tagline: 
 author :
   name : Alex Wapniarski
   email : wapniarski@gmail.com
-  github : alex-wap
-  twitter : Alex_Wap_
-  feedburner : feedname
+  github : http://github.com/alex-wap
+  twitter : http://twitter.com/Alex_Wap_
+  feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -82,7 +82,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
+    provider : false
     disqus :
       short_name : jekyllbootstrap
     livefyre :
