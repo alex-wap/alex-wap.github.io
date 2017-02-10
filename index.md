@@ -16,9 +16,7 @@ Hi, my name is Alex. This is my simple blog. I studied Mechanical Engineering at
   {% endfor %}
 </ul>
 
-### Also
-
-![no idea what im doing]({{ site.url }}/assets/images/dog.jpg){: .img-responsive }
+![ALT TEXT]({{ site.url }}/assets/images/IMAGE.jpg){: .img-responsive }
 
 
 
