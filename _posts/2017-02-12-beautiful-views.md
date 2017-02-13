@@ -8,11 +8,11 @@ tags : [photo, golf, sunset, bellevue, redmond, coding dojo, microsoft]
 
 ### Before the Storm
 
-It was an amazing clearly day. I decided to scope out some of the best views on the Eastside.
+It was an amazing clearly day. I wanted to scope out some of the best views on the Eastside.
 
 ### Newcastle Golf Course
 
-I decided to drive up to the Newcastle Golf Course. It was about 25 minutes of driving along Lake Sammamish. The view was breathtaking. My iPhone 6s couldn't do it justice, but here's the photo anyway.
+I drove up to the Newcastle Golf Course. It was about 25 minutes of driving along Lake Sammamish. The view was breathtaking. My iPhone 6s couldn't do it justice, but here's the photo anyway.
 
 ![window]({{ site.url }}/assets/images/2-12-17/newcastle.jpg){: .img-responsive }
 
