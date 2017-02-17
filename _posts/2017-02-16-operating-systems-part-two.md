@@ -8,7 +8,7 @@ tags : [redmond, microsoft, leap, os, lua]
 
 ### Operating Systems Part Two
 
-We spent the entire day debugging and implementing the code for our process scheduler. Did my code work by the end of the day? **Nope**. What's the big takeaway? Code a crude solution early and spend time thinking about theory after it works. Other people presented their solutions (only one solution was fully implemented).
+We spent the entire day debugging and implementing the code for our task scheduler. Did my code work by the end of the day? **Nope**. What's the big takeaway? Code a crude solution early and spend time thinking about theory after it works. Other people presented their solutions (only one solution was fully implemented).
 
 
 The major issue is dealing with high priority system tasks as well as user tasks. How do you avoid resource starvation (user tasks never run)?

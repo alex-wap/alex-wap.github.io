@@ -15,7 +15,7 @@ The operating system allows a user to interact with the software and hardware of
 
 ### Process Scheduling
 
-The answer to ordering these tasks is process scheduling. The end goal is to make a scheduling system that is both "efficient" and "fair". We want don't want our queue of tasks to grow too big (lots of stuff not getting run, sometimes referred to as starvation), but we also want to run higher priority tasks sooner. The is the high level concept for a priority queue. For one of our assignments, we were tasked (hehe) with creating an scheduling algorithm for a simple OS in Lua. None of us have used Lua. Not only were we jumping into an assignment with fairly foriegn concepts, but we also had to learn Lua syntax on the fly.
+The answer to ordering these tasks is process scheduling. The end goal is to make a scheduling system that is both "efficient" and "fair". We want don't want our queue of tasks to grow too big (lots of stuff not getting run, sometimes referred to as starvation), but we also want to run higher priority tasks sooner. The is the high level concept for a priority queue. For one of our assignments, we were tasked (hehe) with creating an scheduling algorithm for a simple OS in Lua. None of us have used Lua. Not only were we jumping into an assignment with fairly foreign concepts, but we also had to learn Lua syntax on the fly.
 
 
 We are still working on the assignment. Look for my next post to see how we actually implemented a solution. One concept we will probably implement is [Aging](https://en.wikipedia.org/wiki/Aging_(scheduling)#Example).
