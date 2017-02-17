@@ -71,4 +71,9 @@ Looks just like yesterday. :(
 ![window]({{ site.url }}/assets/images/2-16-17/window.jpg){: .img-responsive }
 
 
+### Bonus Photo - Microsoft Building 37
+
+![halo reach]({{ site.url }}/assets/images/2-16-17/halo.jpg){: .img-responsive }
+
+
 ---
