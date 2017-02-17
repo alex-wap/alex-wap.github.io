@@ -15,7 +15,7 @@ Apparently the bridge between Seattle and East Lake (Bellevue/Redmond) charges y
 ![bill boeing]({{ site.url }}/assets/images/2-11-17/bill.jpg){: .img-responsive }
 
 
-The Boeing tour is appromiately 30 minutes north of Redmond. It was a beautiful day and I enjoyed looking at the engines up close. Fun fact, the engines aren't manufactured by Boeing. Most of what Boeing does is assembly work, not manufacturing. They have the largest building (by volume) in the world. Pretty cool. I thought the SpaceX tour was more interesting, but this one was still impressive.
+The Boeing tour is approximately 30 minutes north of Redmond. It was a beautiful day and I enjoyed looking at the engines up close. Fun fact, the engines aren't manufactured by Boeing. Most of what Boeing does is assembly work, not manufacturing. They have the largest building (by volume) in the world. Pretty cool. I thought the SpaceX tour was more interesting, but this one was still impressive.
 
 ![boeing engine]({{ site.url }}/assets/images/2-11-17/engine.jpg){: .img-responsive }
 

@@ -34,11 +34,6 @@ I went to the Microsoft Visitor Center. I checked out the Hololens (display case
 
 I'm going to visit the Future of Flight Aviation Center & Boeing Tour. I will also meet up with some Cal grads who live in the Seattle area. C# is also on my list.
 
-
-### Code
-
-No code today
-
 ---
 
 #### To Do
