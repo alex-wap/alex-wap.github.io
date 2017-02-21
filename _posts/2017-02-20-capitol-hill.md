@@ -18,6 +18,9 @@ Wow, what a fancy coffee shop. It reminds me of Ghirardelli Square Chocolate Fac
 
 ![starbucks]({{ site.url }}/assets/images/2-20-17/star.jpg){: .img-responsive }
 
+![coworkers]({{ site.url }}/assets/images/2-20-17/coworkers.png){: .img-responsive }
+
+
 ### Hot Cakes
 
 What an incredibly rich dessert. My heart was pounding out of my chest from the sugar rush. This is totally worth checking out if you're a big chocolate fan.
