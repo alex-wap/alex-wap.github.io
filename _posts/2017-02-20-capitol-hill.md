@@ -14,7 +14,7 @@ I explored Capitol Hill with my coworkers today. We hit up Elysian Brewery (I lo
 
 Wow, what a fancy coffee shop. It reminds me of Ghirardelli Square Chocolate Factory. Apparently they have a flight of coffee which I'll have to get next time (it was way too late in the night to have coffee). I figured out how to convert my LIVE photo from my phone into a gfycat. Enjoy!
 
-<iframe class="img-responsive" src='https://gfycat.com/ifr/GlassSparklingAntelope' frameborder='0' scrolling='no' width='640' height='480' allowfullscreen></iframe>
+<iframe src='https://gfycat.com/ifr/GlassSparklingAntelope' frameborder='0' scrolling='no' width='100%' height='480' allowfullscreen></iframe>
 
 ![starbucks]({{ site.url }}/assets/images/2-20-17/star.jpg){: .img-responsive }
 
