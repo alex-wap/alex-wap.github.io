@@ -20,6 +20,9 @@ Wow, what a fancy coffee shop. It reminds me of Ghirardelli Square Chocolate Fac
 
 ### Hot Cakes
 
-What an incredibly rich dessert. My heart was pounding out of my chest from the sugar rush. This is totally worth checking out.
+What an incredibly rich dessert. My heart was pounding out of my chest from the sugar rush. This is totally worth checking out if you're a big chocolate fan.
+
+![molten cake]({{ site.url }}/assets/images/2-20-17/cake.jpg){: .img-responsive }
+
 
 ---
