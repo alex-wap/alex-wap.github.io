@@ -48,7 +48,7 @@ I look forward to attending more talks in the near future.
 
 The forecast says snow tomorrow and it's definitely dreary.
 
-![window]({{ site.url }}/assets/images/2-21-17/window.png){: .img-responsive }
+![window]({{ site.url }}/assets/images/2-21-17/window.jpg){: .img-responsive }
 
 
 ---
