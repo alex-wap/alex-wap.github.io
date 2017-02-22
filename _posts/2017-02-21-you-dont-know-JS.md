@@ -1,6 +1,6 @@
 ---
 layout: post
-category : travel
+category : work
 tagline: "the Hill"
 tags : [seattle, javascript, redmond, microsoft ]
 ---
