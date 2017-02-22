@@ -1,16 +1,22 @@
 ---
 layout: post
 category : work
-tagline: "the Hill"
+tagline: "empower"
 tags : [seattle, javascript, redmond, microsoft ]
 ---
 {% include JB/setup %}
 
 ### Badge & Mission
 
-I finally got my badge today! Microsoft's mission appears on the back of everyone's badge. It says "Empower every person and every organization on the planet to achieve more". I'm definitely in the honeymoon phase with my new job, but it's a great mission statement and I wholeheartedly agree with it. :)
+I finally got my badge today! Microsoft's mission appears on the back of everyone's badge. It says:
 
-![badge]({{ site.url }}/assets/images/2-21-17/badge.jpg){: .img-responsive } ![mission]({{ site.url }}/assets/images/2-21-17/mission.jpg){: .img-responsive }
+
+> Empower every person and every organization on the planet to achieve more. 
+
+
+I'm definitely in the honeymoon phase with my new job, but it's a great mission statement and I wholeheartedly agree with it. :)
+
+![badge]({{ site.url }}/assets/images/2-21-17/badge.jpg){: .img-responsive }
 
 
 I'm excited to explore the corners of campus I haven't seen it. I saw this ridiculous flask in the MS store.
