@@ -39,7 +39,7 @@ The main topic of the talk was about JavaScript ES6 and his programming philosop
 [Imperative programming](https://en.wikipedia.org/wiki/Imperative_programming) is the opposite of declarative programming. The focus is on the process and *how* the program achieves the desired outcome. An example of this would be explicit iteration in a for loop.
 
 
-The talk showcased using new ES6 features to improve code readability. It was super cool to hear Kyle's take on each ES6 feature and his general opinions about JavaScript. He also made a great point about semicolons. He argues that developers should put in semicolons because it improves readability. This seems counterintuitive because we are adding characters. Semicolons mark the end of each statement. Therefore, we are able to read and understand the code more easily thanks to knowing when a statment is compelete (rather than searching the next line for a semicolon). 
+The talk showcased using new ES6 features to improve code readability. It was super cool to hear Kyle's take on each ES6 feature and his general opinions about JavaScript. He also made a great point about semicolons. He argues that developers should put in semicolons because it improves readability. This seems counterintuitive because we are adding characters. Semicolons mark the end of each statement. Therefore, we are able to read and understand the code more easily thanks to knowing when a statement is complete (rather than searching the next line for a semicolon). 
 
 
 I look forward to attending more talks in the near future.
