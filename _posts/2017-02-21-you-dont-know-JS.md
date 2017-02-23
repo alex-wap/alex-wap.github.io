@@ -19,7 +19,7 @@ I'm definitely in the honeymoon phase with my new job, but it's a great mission 
 ![badge]({{ site.url }}/assets/images/2-21-17/badge.jpg){: .img-responsive }
 
 
-I'm excited to explore the corners of campus I haven't seen it. I saw this ridiculous flask in the MS store.
+I'm excited to explore the corners of campus I haven't seen yet. I saw this ridiculous flask in the MS store.
 
 
 ![genius juice]({{ site.url }}/assets/images/2-21-17/genius.jpg){: .img-responsive }
