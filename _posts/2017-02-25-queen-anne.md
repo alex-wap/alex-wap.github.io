@@ -11,12 +11,12 @@ tags : [seattle, food ]
 Microsoft provides free ORCA (One Regional Card for All) cards. It's used by all public transportion options in the Puget Sound region of Washington State. ORCA is similar to the Clipper Card in the Bay Area.
 
 
-Parking in Seattle is obscene, so I decided to park my car in Bellevue for free and then take the bus with a friend across the bridge. It took about 30 minutes and it was totally painless. We decided to walk from University Street Station to Kerry Park. We spent about an hour walking past Pike Place, the Space Needle, Key Arena, and finally climbing a giant hill up to Kerry Park.
+Parking in Seattle is obscene, so I decided to park my car in Bellevue for free and then take the bus with a friend across the bridge. It took about 30 minutes and it was totally painless. We decided to walk from University Street Station to Kerry Park (roughly 2.5 miles). We spent about an hour walking past Pike Place, the Space Needle, Key Arena, and finally climbing a giant hill up to Kerry Park.
 
 
 ### Kerry Park
 
-This is a tiny park, but the view is  killer. If you have seen a postcard from Seattle, this is essentially the same view. When the weather is clear, I've been told that Mount Rainier is in the background. Here's my modest photo. These are the types of spots that are made for DSLRs.
+This is a tiny park, but the view is  killer. If you have seen a postcard from Seattle, this is probably where the photo was taken. When the weather is clear, you can see Mount Rainier in the background. Here's my modest photo. These are the types of spots that are made for DSLRs.
 
 ![seattle]({{ site.url }}/assets/images/2-25-17/sea.jpg){: .img-responsive }
 

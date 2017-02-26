@@ -15,7 +15,7 @@ Now that everyone got a badge, we decided to explore a nearby cafe. There were l
 
 ### Building 83
 
-Cafe 83 is located in Microsoft Building 83 (surprise!). It was originally owned by Safeco and it is super modern design. Fancy chairs and glass conference rooms that hover over the 4 story atrium.
+Cafe 83 is located in Microsoft Building 83 (surprise!). It was originally owned by Safeco and it has a super modern design. Fancy chairs and glass conference rooms that hover over the four story atrium.
 
 ![building 83]({{ site.url }}/assets/images/2-24-17/83.jpg){: .img-responsive }
 
