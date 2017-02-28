@@ -2,7 +2,7 @@
 layout: post
 category : work
 tagline: "ambiguous specifications"
-tags : [redmond, microsoft, leap, os, lua]
+tags : [redmond, microsoft, leap, os, lua, window]
 ---
 {% include JB/setup %}
 

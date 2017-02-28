@@ -2,7 +2,7 @@
 layout: post
 category : work
 tagline: "Basic Input/Output System"
-tags : [redmond, microsoft, leap, os, lua]
+tags : [redmond, microsoft, leap, os, lua, window]
 ---
 {% include JB/setup %}
 

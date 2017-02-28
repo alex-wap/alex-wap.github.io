@@ -2,7 +2,7 @@
 layout: post
 category : travel
 tagline: "It behooves no one to dismiss any novel idea with the statement that 'it can't be done.' - Bill Boeing"
-tags : [wsdot, boeing, berkeley, cal, redmond]
+tags : [wsdot, boeing, berkeley, cal, redmond, window]
 ---
 {% include JB/setup %}
 

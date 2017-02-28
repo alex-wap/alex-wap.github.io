@@ -2,7 +2,7 @@
 layout: post
 category : travel
 tagline: "<3 sunsets"
-tags : [photo, golf, sunset, bellevue, redmond, coding dojo, microsoft]
+tags : [photo, golf, sunset, bellevue, redmond, coding dojo, microsoft, window]
 ---
 {% include JB/setup %}
 

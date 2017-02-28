@@ -2,7 +2,7 @@
 layout: post
 category : work
 tagline: "empower"
-tags : [seattle, javascript, redmond, microsoft ]
+tags : [seattle, javascript, redmond, microsoft, window ]
 ---
 {% include JB/setup %}
 

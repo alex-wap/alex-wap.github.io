@@ -2,7 +2,7 @@
 layout: post
 category : work
 tagline: "Control+K, Control+C"
-tags : [windows, visual studio, redmond, microsoft, food ]
+tags : [windows, visual studio, redmond, microsoft, food, window ]
 ---
 {% include JB/setup %}
 

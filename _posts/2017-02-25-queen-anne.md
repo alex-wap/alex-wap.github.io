@@ -2,7 +2,7 @@
 layout: post
 category : travel
 tagline: "a really steep hill"
-tags : [seattle, food ]
+tags : [seattle, food, window ]
 ---
 {% include JB/setup %}
 
