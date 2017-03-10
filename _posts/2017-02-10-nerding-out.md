@@ -28,7 +28,7 @@ I went to the Microsoft Visitor Center. I checked out the Hololens (display case
 
 ![hololens]({{ site.url }}/assets/images/2-10-17/holo.jpg){: .img-responsive }
 
-![master chief]({{ site.url }}/assets/images/2-10-17/halo.jpg){: .img-responsive }
+![master chief]({{ site.url }}/assets/images/2-10-17/halo.jpg){: .img-responsive .vertical }
 
 ### Weekend Plans
 

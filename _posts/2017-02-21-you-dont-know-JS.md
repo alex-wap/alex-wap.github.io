@@ -16,13 +16,13 @@ I finally got my badge today! Microsoft's mission appears on the back of everyon
 
 I'm definitely in the honeymoon phase with my new job, but it's a great mission statement and I wholeheartedly agree with it. :)
 
-![badge]({{ site.url }}/assets/images/2-21-17/badge.jpg){: .img-responsive }
+![badge]({{ site.url }}/assets/images/2-21-17/badge.jpg){: .img-responsive .vertical }
 
 
 I'm excited to explore the corners of campus I haven't seen yet. I saw this ridiculous flask in the MS store.
 
 
-![genius juice]({{ site.url }}/assets/images/2-21-17/genius.jpg){: .img-responsive }
+![genius juice]({{ site.url }}/assets/images/2-21-17/genius.jpg){: .img-responsive .vertical }
 
 
 ### Kyle Simpson

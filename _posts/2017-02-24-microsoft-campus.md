@@ -17,7 +17,7 @@ Now that everyone got a badge, we decided to explore a nearby cafe. There were l
 
 Cafe 83 is located in Microsoft Building 83 (surprise!). It was originally owned by Safeco and it has a super modern design. Fancy chairs and glass conference rooms that hover over the four story atrium.
 
-![building 83]({{ site.url }}/assets/images/2-24-17/83.jpg){: .img-responsive }
+![building 83]({{ site.url }}/assets/images/2-24-17/83.jpg){: .img-responsive .vertical }
 
 ### Microsoft Logo
 
@@ -36,10 +36,10 @@ This "library" was really disappointing. It's a single floor and very small. It 
 
 I decided to continue my self-tour of campus. I caught a nice sunset on my walk and found another Master Chief. :)
 
-![sunset]({{ site.url }}/assets/images/2-24-17/sunset.jpg){: .img-responsive }
+![sunset]({{ site.url }}/assets/images/2-24-17/sunset.jpg){: .img-responsive .vertical }
 
 
-![halo]({{ site.url }}/assets/images/2-24-17/halo.jpg){: .img-responsive }
+![halo]({{ site.url }}/assets/images/2-24-17/halo.jpg){: .img-responsive .vertical }
 
 
 ---

@@ -12,7 +12,7 @@ Apparently the bridge between Seattle and East Lake (Bellevue/Redmond) charges y
 
 ### Boeing Tour
 
-![bill boeing]({{ site.url }}/assets/images/2-11-17/bill.jpg){: .img-responsive }
+![bill boeing]({{ site.url }}/assets/images/2-11-17/bill.jpg){: .img-responsive .vertical }
 
 
 The Boeing tour is approximately 30 minutes north of Redmond. It was a beautiful day and I enjoyed looking at the engines up close. Fun fact, the engines aren't manufactured by Boeing. Most of what Boeing does is assembly work, not manufacturing. They have the largest building (by volume) in the world. Pretty cool. I thought the SpaceX tour was more interesting, but this one was still impressive.
@@ -37,7 +37,7 @@ I'll try to post daily photos from my window if I can. I've experienced amazing 
 
 I met up with some Cal alums at a dive bar in Greenwood (North of Fremont / the Fremont Troll). One of my fraternity brothers is from the area and I got all his pro tips (b&w to hide the red).
 
-![nate and alex]({{ site.url }}/assets/images/2-11-17/nate.jpg){: .img-responsive }
+![nate and alex]({{ site.url }}/assets/images/2-11-17/nate.jpg){: .img-responsive .vertical }
 
 
 ---

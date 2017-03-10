@@ -26,7 +26,7 @@ This is a tiny park, but the view is  killer. If you have seen a postcard from S
 
 Molly Moon's is Seattle's answer to Ici Ice Cream in Berkeley and Bi-Rite Creamery in San Francisco. Sorry, more food photos. I went with Grapefruit Rosemary Sorbet with Lemon Curd as a topping in a waffle cone.
 
-![ice cream]({{ site.url }}/assets/images/2-25-17/ice.jpg){: .img-responsive }
+![ice cream]({{ site.url }}/assets/images/2-25-17/ice.jpg){: .img-responsive .vertical }
 
 
 Molly Moon's ice cream is great, however Ici's cones are superior. We sat in shop for about 20 minutes and all our clothes smelled of waffle cones for the rest of the day. 
