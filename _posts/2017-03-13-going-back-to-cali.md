@@ -2,27 +2,27 @@
 layout: post
 category : travel
 tagline: "A natural dose of vitamin D"
-tags : [california, stanford ]
+tags : [california, airport, stanford ]
 ---
 {% include JB/setup %}
 
 ### Airport
 
-coding dojo instructor
+Friday night, I drove from Redmond campus to SeaTac Airport. While I was waiting for my flight, I bumped into one of my San Jose Coding Dojo instructors. Coding Dojo has multiple locations and my instructor was visiting the Bellevue location. He gave me a quick update on the current status of Coding Dojo as well as telling me about the [Southwest companion pass](https://www.southwest.com/rapidrewards/tiers-more-companion-pass). Apparently, Southwest has two credit cards that award 50,000 points each and the companion pass is 100,000 points. The pass lets you choose one person to fly free  with you every time you purchase or redeem points for a flight. Nice. My plane arrived in San Jose around 11 PM, but it felt like T-shirt weather.
 
 ### Family
 
-
+I spent Saturday enjoying a home-cooked meal with family. I also hit up one of my favorite boba places, [Ten Ren](http://www.tenren.com/index.html).
 
 ### Stanford
 
-I had extra time before an Amazon event, so I went to test out the Vive setup at the Microsoft store. I have used Google Cardboard before, but I do not consider it a full VR experience. My expectations were pretty high, but I was still impressed by how novel the experiences were. The store uses various demos to showcase the Vive. The first demo helps you visualize the amount of physical space you can use. It also helps you get familiar with the controllers. Here's a photo of me trying it out (thanks Tara):
+On Sunday, I could not believe how perfect the weather was. Mid 70s and low humidity with clear skys... In March... Most of my time in the Pacific Northwest has been cloudy. I didn't really seem to mind, until I visited California this weekend. We grabbed tacos and explored Stanford Campus. I absorbed as much sun as I could before I flew back to Seattle Sunday night. Here are a few pictures from my weekend:
 
 ![stanford]({{ site.url }}/assets/images/3-13-17/stanford.jpg){: .img-responsive .vertical }
 
-#### Seattle vs Bay Area
 
 ![stanford quad]({{ site.url }}/assets/images/3-13-17/quad.jpg){: .img-responsive }
+
 
 ![sunset]({{ site.url }}/assets/images/3-13-17/sunset.jpg){: .img-responsive }
 
