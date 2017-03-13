@@ -1,8 +1,8 @@
 ---
 layout: post
-category : work
-tagline: "WOAH"
-tags : [bellevue, microsoft, vr, amazon ]
+category : travel
+tagline: "A natural dose of vitamin D"
+tags : [california ]
 ---
 {% include JB/setup %}
 
