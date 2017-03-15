@@ -16,7 +16,7 @@ I spent Saturday enjoying a home-cooked meal with family. I also hit up one of m
 
 ### Stanford
 
-On Sunday, I could not believe how perfect the weather was. Mid 70s and low humidity with clear skys... In March... Most of my time in the Pacific Northwest has been cloudy. I did't really miss the sun, until I visited California this weekend. We grabbed tacos and explored Stanford. I absorbed as much sun as I could before I flew back to Seattle Sunday night. Here are a couple photos from my weekend:
+On Sunday, I could not believe how perfect the weather was. Mid 70s and low humidity with clear skys... In March... Most of my time in the Pacific Northwest has been cloudy. I didn't really miss the sun, until I visited California this weekend. We grabbed tacos and explored Stanford. I absorbed as much sun as I could before I flew back to Seattle Sunday night. Here are a couple photos from my weekend:
 
 ![stanford]({{ site.url }}/assets/images/3-13-17/stanford.jpg){: .img-responsive .vertical }
 
