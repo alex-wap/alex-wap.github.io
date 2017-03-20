@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alex's Blog
+title: Alex Wapniarski's Blog
 tagline: 
 ---
 {% include JB/setup %}
