@@ -1,7 +1,7 @@
 ---
 layout: post
 category : study
-tagline: "what is the time complexity of "
+tagline: "☀️"
 tags : [algorithms, whiteboard ]
 ---
 {% include JB/setup %}
