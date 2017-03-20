@@ -1,17 +1,15 @@
 ---
 layout: post
-category : travel
+category : study
 tagline: "transpile"
-tags : [microsoft, typescript, node, javascript ]
+tags : [algorithms, typescript, node, javascript ]
 ---
 {% include JB/setup %}
 
-### Events
+### Algorithms
 
--node
--vscode
--typescript
--es6
+One of the most challenging aspects of building a career in software development is the coding interview. Algorithms and data structures are typical domains for 
+ one of my skillsets that I am constantly improving. I decided to hold 
 
 
 ![bellevue]({{ site.url }}/assets/images/3-19-17/bellevue.jpg){: .img-responsive }
