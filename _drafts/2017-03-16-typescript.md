@@ -2,7 +2,7 @@
 layout: post
 category : travel
 tagline: "transpile"
-tags : [meetup, vr, microsoft, ar, hololens ]
+tags : [microsoft, typescript, node, javascript ]
 ---
 {% include JB/setup %}
 
