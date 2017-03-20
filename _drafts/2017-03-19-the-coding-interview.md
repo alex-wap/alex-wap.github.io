@@ -1,15 +1,17 @@
 ---
 layout: post
 category : study
-tagline: "transpile"
-tags : [algorithms, typescript, node, javascript ]
+tagline: "what is the time complexity of "
+tags : [algorithms, whiteboard ]
 ---
 {% include JB/setup %}
 
-### Algorithms
+### The Coding Interview
 
-One of the most challenging aspects of building a career in software development is the coding interview. Algorithms and data structures are typical domains for 
- one of my skillsets that I am constantly improving. I decided to hold 
+One of the most challenging aspects of building a career in software development is the coding interview. Job seekers will encounter problems testing their knowledge of algorithms and data structures. I am constantly improving my whiteboarding abilities. I decided to organize a group among the LEAP (both current and former) members to practice our ability to whiteboard. I'll post about the problems we solve.
+
+
+We picked a bad day to study because it was incredibly sunny. Evidence below:
 
 
 ![bellevue]({{ site.url }}/assets/images/3-19-17/bellevue.jpg){: .img-responsive }
