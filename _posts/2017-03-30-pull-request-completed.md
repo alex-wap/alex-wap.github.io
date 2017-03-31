@@ -17,4 +17,8 @@ I've been working on a new feature for almost two weeks. I would say that I comp
 
 A thorough code review with a senior developer helped me learn a ton in a very short period of time. I blasted through a lot of coding today thanks to the comments and suggestions by the senior dev. I was able to wrap up my code and submit it for testing. I'm expecting a lot of work to iterate and improve the existing solution, but I'm happy that my coworkers will see the results of my work.
 
+### Keyboards
+
+I brought a mechnical keyboard with me to Seattle, however my desk in an open workspace. It would be very distracting for my coworkers. That said, I have already noticed multiple people with [IBM Model M](https://webwit.nl/input/kbsim/img/modelm_4.jpg) keyboards... They are commonly known as "the greatest keyboard ever made".
+
 ---
