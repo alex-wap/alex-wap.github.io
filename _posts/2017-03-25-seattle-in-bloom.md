@@ -2,7 +2,7 @@
 layout: post
 category : travel
 tagline: "is that the sun?"
-tags : [seattle, ferry, microsoft ]
+tags : [seattle, ferry ]
 ---
 {% include JB/setup %}
 
