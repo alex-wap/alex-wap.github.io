@@ -6,7 +6,7 @@ tagline:
 {% include JB/setup %}
 
 ### About
-Hi, my name is Alex. This is my simple blog. I studied Mechanical Engineering at Berkeley, but now I am a Software Developer at Microsoft. I attended and taught at [Coding Dojo](http://codingdojo.com) in Silicon Valley. My personal website is [alexw.tech](http://alexw.tech).
+Hi, my name is Alex. This is my [JekyllBootstrap](http://jekyllbootstrap.com/) blog. I studied Mechanical Engineering at Berkeley and now I work for Microsoft as a Software Developer. I attended and taught at [Coding Dojo](http://codingdojo.com) in Silicon Valley. My personal website is [alexw.tech](http://alexw.tech).
 
 ### Contact
 
