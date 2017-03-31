@@ -1,8 +1,8 @@
 ---
 layout: post
 category : work
-tagline: "rough day at the office?"
-tags : [seattle, morale ]
+tagline: "what would you say you do here?"
+tags : [seattle, morale, microsoft ]
 ---
 {% include JB/setup %}
 
